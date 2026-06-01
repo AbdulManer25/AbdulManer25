@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Abdul Maner
+# Hi👋, I'm Abdul Maner
 💻 Data Analyst | Web Development | Power BI Enthusiast<br>📍 Pune, India<br><br>🚀 Exploring AI, Building Dashboards & Solving Real-World Problems with Data<br><br>🌱 Currently learning Power BI, Python, MySQL & Machine Learning<br><br>💬 Ask me about Python, SQL, Power BI & Data Analytics<br><br>⚡ Fun fact: I love turning data into interactive dashboards and insights.<br>
 
 
